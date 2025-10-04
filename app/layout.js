@@ -22,6 +22,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="monetag" content="a3e9b641052667f743aa454d82a9fcf4"></meta>
         <script
           src="https://fpyf8.com/88/tag.min.js"
           data-zone="174864"

@@ -31,7 +31,7 @@ export default function HomePage() {
         target="_blank"
         className={"ctaButton"}
       >
-        ▶ Continue
+        ▶ Watch Full Video
       </a>
     </div>
   );
