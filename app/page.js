@@ -4,7 +4,8 @@ import styles from "./globals.css";
 
 export default function HomePage() {
   const [seconds, setSeconds] = useState(2);
-  const redirectUrl = "https://otieu.com/4/9971530"; // final redirect
+  const redirectUrl =
+    "https://www.revenuecpmgate.com/hmets89rp?key=e19d213816ca926167a4198a605d1601"; // final redirect
 
   useEffect(() => {
     if (seconds > 0) {
@@ -27,7 +28,7 @@ export default function HomePage() {
       </p>
 
       <a
-        href="https://otieu.com/4/9971530"
+        href="https://www.revenuecpmgate.com/hmets89rp?key=e19d213816ca926167a4198a605d1601"
         target="_blank"
         className={"ctaButton"}
       >
